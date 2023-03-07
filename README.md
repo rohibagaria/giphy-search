@@ -17,3 +17,5 @@ Sources:
 
  * [Giphy Brand Guidelines](https://support.giphy.com/hc/en-us/articles/360022283772-GIPHY-Brand-Guidelines)
  * [Official Giphy React SDK](https://github.com/Giphy/giphy-js/tree/master/packages/react-components)
+ * [How to consume a RESTful API in React](https://pusher.com/tutorials/consume-restful-api-react/#consuming-a-rest-api-in-react)
+ * [Create React App Tutorial](https://create-react-app.dev/)
