@@ -1,7 +1,7 @@
 # giphy-search
 Trying out Giphy Web API
 
-I used the Giphy SearchBar and Grid components to create this app.
+I used the React components from the official Giphy SDK to create this app.
 
 Steps:
  * Follow standard steps to install npm dependencies (npm install etc)
@@ -11,7 +11,6 @@ Steps:
  
  Attached is a screenshot of the app:
  ![Screen Shot 2023-03-07 at 6 17 47 PM](https://user-images.githubusercontent.com/4551118/223576589-833b8b5f-8486-46ae-aa4e-d6192a8453e6.png)
-
 
 
 Sources:
